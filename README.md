@@ -1,9 +1,28 @@
-## About Me
+# About Me Webpage
 
-Hello, I'm Amen Wolde, a Computer Science student at Metropolitan State University pursuing a Bachelor's degree in Computer Science with a minor in Business Analytics.
+A simple and responsive personal webpage that introduces who I am, highlights my background, skills, and interests, and serves as a digital profile for visitors to learn more about me.
 
-I am passionate about software development, web technologies, data analytics, and problem-solving. Through academic projects, internships, and personal development, I have gained experience building full-stack web applications, working with databases, and developing software solutions using modern technologies.
+## Features
 
-My goal is to leverage technology to create impactful solutions while continuously learning and growing as a software engineer.
+- Personal introduction
+- Education and career goals
+- Technical skills overview
+- Responsive design
+- Clean and user-friendly interface
 
-Outside of technology, I enjoy playing soccer, staying active, and exploring new opportunities to expand my skills and knowledge.
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Purpose
+
+This project was created to practice front-end web development fundamentals while building a professional online presence. The webpage showcases my journey as a Computer Science student and aspiring Software Engineer.
+
+## Author
+
+**Amen Wolde**
+- Computer Science Student
+- Metropolitan State University
+- Interested in Software Development, Data Analytics, and AI
